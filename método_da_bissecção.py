@@ -1,3 +1,5 @@
+# Método da Bissecção #
+
 import math
 e = 2.71828
 
